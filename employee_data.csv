@@ -1,0 +1,11 @@
+employee_id,name,department,salary,age,years_exp,performance
+1,Alice,Engineering,95000,30,5,4.2
+2,Bob,Marketing,72000,35,8,3.8
+3,Carol,Engineering,88000,28,3,4.5
+4,Dave,HR,61000,42,15,3.1
+5,Eve,Engineering,102000,38,12,4.8
+6,Frank,Marketing,68000,29,4,3.5
+7,Grace,HR,,31,6,3.9
+8,Hank,Engineering,91000,45,20,4.1
+9,Iris,Marketing,75000,,7,4.0
+10,Jack,Engineering,85000,33,8,
